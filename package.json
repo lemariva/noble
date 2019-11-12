@@ -7,7 +7,7 @@
   "license": "MIT",
   "name": "@lemariva/noble",
   "description": "A Node.js BLE (Bluetooth Low Energy) central library.",
-  "version": "1.9.1-1",
+  "version": "1.9.1-2",
   "repository": {
     "type": "git",
     "url": "https://github.com/sandeepmistry/noble.git"
@@ -34,7 +34,7 @@
   ],
   "dependencies": {
     "debug": "~2.2.0",
-    "@abandonware/bluetooth-hci-socket": "^0.5.3-3",
+    "@abandonware/bluetooth-hci-socket": "^0.5.3-3"
   },
   "optionalDependencies": {
     "bplist-parser": "0.0.6",
