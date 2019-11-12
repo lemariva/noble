@@ -33,10 +33,10 @@
     "win32"
   ],
   "dependencies": {
-    "debug": "~2.2.0"
+    "debug": "~2.2.0",
+    "@abandonware/bluetooth-hci-socket": "^0.5.3-3",
   },
   "optionalDependencies": {
-    "@abandonware/bluetooth-hci-socket": "^0.5.3-3",
     "bplist-parser": "0.0.6",
     "xpc-connection": "~0.1.4"
   },
